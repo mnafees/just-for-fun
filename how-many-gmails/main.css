@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Great+Vibes|Open+Sans+Condensed:300');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', sans-serif;
+    color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+}
+div.quotation {
+    background: #880E4F;
+    padding: 100px;
+}
+h1.header {
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+}
+h3.shakespeare {
+    font-size: 20px;
+    text-align: right;
+}
+div.email-container {
+    background: #0277BD;
+    padding: 100px;
+    text-align: center;
+}
+div.email-container h1 {
+    font-size: 50px;
+}
+input.email {
+    background: transparent;
+    font-size: 40px;
+    padding: 20px;
+    border-bottom: 1px solid #fff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+input.email:focus {
+    outline: none;
+}
