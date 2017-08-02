@@ -1,1 +1,1 @@
-# just-for-fun
+## Some fun projects that I worked on
